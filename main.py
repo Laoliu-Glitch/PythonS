@@ -8,7 +8,6 @@ if frist == "Y":
     while True:
         i += 1
         users[user_name,i] = user_code
-        print(users)
         break
 elif frist == "N":
     print("再见。")
