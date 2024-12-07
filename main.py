@@ -1,4 +1,3 @@
-a = float(input("是否创建新的？Y/N"))
 frist = input("是否创建新的用户？Y/N:")
 i = 0
 users = {}
