@@ -9,6 +9,10 @@ if frist == "Y":
         i += 1
         users[user_name,i] = user_code
         break
+    nest_q = input("你是否要新建一个记账档案？Y/N")
+    if nest_q == Y:
+        #如果是的话
+        
 elif frist == "N":
     print("再见。")
 else:
